@@ -27,8 +27,8 @@ char auth[] = "10914c1bc1074bb6aa7621d5626de1fa";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "maine coast";
-char pass[] = "abbyisahappygirl";
+char ssid[] = "IPaddr";
+char pass[] = "password";
 
 void setup()
 {
